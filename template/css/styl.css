@@ -1,0 +1,14 @@
+header{
+    padding: 50px 0 25px 0;
+    background-image: url("../images/fonForProject.jpg");
+}
+
+body{
+    background-color: #fff;
+}
+.task_go{
+    font-size: 25px;
+}
+.content{
+    background-color: #ffca2c;
+}
